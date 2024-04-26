@@ -1,0 +1,62 @@
+h1{
+    color: white;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: black
+}
+body {
+    background-image: url('../imgs/fondo.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+a {
+width: 10px;
+height: 10px;
+}
+li {
+    color: white;
+    font-size: 30px;
+    background-color: black;
+}
+table {
+    color: white;
+    font-size: 35px;
+    margin-left: 100px;
+}
+.bordeimg {
+    border: 25px solid white; 
+    filter: grayscale(100%);
+    image-rendering: auto;
+    
+
+}
+.bordeimg:hover {
+
+    border: 25px solid white; 
+    filter: grayscale(0%);
+    transform: rotate(2deg);
+}
+.text:hover {
+    background-color: black;
+    text-align: center;
+}
+p {
+    color: white;
+    font-size: 30px;
+    background-color: black;
+}
+.tr {
+    background-color: black;
+}
+.text2:hover {
+    background-color: black;
+    width: 170px;
+}
+.titulo{
+    color: white;
+    font-size: 50px;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    
+}

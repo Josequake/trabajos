@@ -1,0 +1,32 @@
+body{
+    background-color: chocolate;
+}
+h1{
+    color: white;
+    font-size: 50px;
+    margin-left: 30%;
+    
+}
+
+
+.redondeado {
+    border-radius: 5px;
+    background-color: azure;
+    width: 20%;
+    height: 30px;
+    margin-left: 40%;
+    color: black
+  }
+
+  ::placeholder{
+    color: rgb(205, 205, 205);
+  }
+
+  .table{
+    color: white;
+    width: 34%;
+    height: 35%;
+    margin-left: 34%;
+    text-align: center;
+    padding-top: 2%;
+  }
